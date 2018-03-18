@@ -1,7 +1,3 @@
-# coviam-test
-
-> coviam front end test with nuxtjs
-
 ## Build Setup
 
 ``` bash
